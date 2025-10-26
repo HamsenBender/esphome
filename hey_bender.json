@@ -3,7 +3,7 @@
   "wake_word": "hey bender",
   "author": "hamsenbender",
   "website": "https://github.com/HamsenBender",
-  "model": "https://github.com/HamsenBender/esphome/blob/main/hey_bender.tflite",
+  "model": "https://raw.githubusercontent.com/HamsenBender/esphome/main/hey_bender.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
@@ -15,3 +15,4 @@
   }
 
 }
+
